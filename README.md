@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mitch</h1>
-<h3 align="center">A passionate frontend developer from the UK</h3>
+<h3 align="center">A passionate fullstack developer from the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acoustep" alt="acoustep" /> </p>
 
